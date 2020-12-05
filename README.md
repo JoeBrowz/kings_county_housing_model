@@ -22,10 +22,8 @@ Through the data exploration and modeling process, it could be determined that l
 
 ## Repository Structure
     .
-    ├── KC_County_Final_Model               # final prediciton notebook, model implementation
     ├── modeling process                    # folder containing process notebooks
     ├── pickle_jar                          # folder contains pickled model and scaler 
-    ├── prediction                          # folder contains notebook 
     ├── provided_data                       # folder contains training and test csv files 
+    ├── Kings_County_Model                  # final prediciton notebook, model implementation
     └── README.md                           # the very thing you're reading 👀 
-
