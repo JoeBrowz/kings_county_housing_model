@@ -1,4 +1,4 @@
-# Seattle Housing Price Prediction
+# Seattle Housing Price Prediction Model
 ![seattle](https://seattlemag.com/sites/default/files/field/image/cityliving.jpg)
 
 ## Overview
@@ -10,8 +10,11 @@ When clients seek the services of a real estate agent, either as prospective buy
 
 ## Approach
 -***Start with explatory data analysis*** to check for missing values, familiarize with features, and perform statistical analysis to understand interaction between paramenters
+
 -***Feature Engineer*** to help better predict the model than just running regression on the given parameters
+
 -***Generate regression model*** using *train-test split* method to check for effectivenss of features
+
 -***Prediciton*** of housing prices in the test dataset using model built from training dataset. 
 
 ## Outcome
