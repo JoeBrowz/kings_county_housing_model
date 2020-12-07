@@ -9,7 +9,7 @@ This project uses SciKit and Python to run multiple regression analysis to predi
 When clients seek the services of a real estate agent, either as prospective buyers or sellers, it is important that the agent is able to provide estimates for what a home would sell for. The generated model in this project can output an estimate for a home given a list of parameters about the property.
 
 ## Approach
-- ***Start with explatory data analysis*** to check for missing values, familiarize with features, and perform statistical analysis to understand interaction between paramenters
+- ***Start with explatory data analysis*** to check for missing values, familiarize with features, and perform statistical analysis to understand interaction between paramenters. For stat tests and EDA, see the exploratory notebook in the `modeling_process` folder
 
 - ***Feature Engineer*** to help better predict the model than just running regression on the given parameters
 
